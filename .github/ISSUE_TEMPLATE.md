@@ -13,9 +13,9 @@ Also try to search for your issue. It may have already been answered or even fix
 -->
 
 <!-- BUG REPORT TEMPLATE -->
-### UIkit version
+### UIkit-utils version
 <!-- Check if the issue is reproducible with the latest stable version. -->
-3.0.0-beta.40
+1.0.0
 
 ### Browser
 
